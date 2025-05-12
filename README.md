@@ -16,4 +16,4 @@ This project includes the following key steps:
 2. **Explore and clean the data** using SQL queries.
 3. **Bring the SQL output into a Pandas DataFrame** for further processing.
 4. **Prepare the data for machine learning**, including feature engineering.
-5. **Train and evaluate ML models** to make predictions on earthquake damage.
+5. **Train and evaluate ML models** to make predictions on earthquake damage .
